@@ -1,6 +1,11 @@
 ---
 name: double-loop-learning
 description: Surfaces and assesses hidden assumptions behind decisions, designs, or recurring patterns — use when reviewing a design before committing, reflecting on recurring problems, or questioning why the same kinds of issues keep appearing
+tags:
+  - critical-thinking
+  - decision-making
+  - design-review
+  - assumptions
 ---
 
 # Double-Loop Learning Review

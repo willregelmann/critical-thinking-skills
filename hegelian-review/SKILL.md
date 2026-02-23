@@ -1,6 +1,11 @@
 ---
 name: hegelian-review
 description: Runs a two-pass adversarial review (critic + steelman defender) to produce calibrated verdicts distinguishing genuine issues from false alarms — use when reviewing specs, code, designs, architecture, or documents where a single critical pass would over-index on problems
+tags:
+  - critical-thinking
+  - code-review
+  - architecture-review
+  - adversarial-review
 ---
 
 # Hegelian Dialectical Review
