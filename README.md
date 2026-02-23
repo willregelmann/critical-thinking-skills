@@ -1,6 +1,6 @@
 # Critical Thinking Skills
 
-Claude Code skills for structured critical thinking. Each skill gives Claude a repeatable process for a specific type of reasoning task.
+Agent skills for structured critical thinking. Each skill gives your AI coding agent a repeatable process for a specific type of reasoning task.
 
 ## Skills
 
@@ -12,8 +12,12 @@ Claude Code skills for structured critical thinking. Each skill gives Claude a r
 ## Install
 
 ```
-npx skills add willcosgrove/critical-thinking-skills
+npx skills add willregelmann/critical-thinking-skills -g -y
 ```
+
+The `-g` flag installs globally (user-level) so the skills are available in all projects. Omit it to install project-level instead.
+
+Works with Claude Code, Gemini CLI, Cursor, Windsurf, Codex, and [30+ other agents](https://github.com/vercel-labs/skills).
 
 ## Usage
 
